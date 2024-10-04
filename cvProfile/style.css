@@ -1,0 +1,204 @@
+
+nav {
+    text-align: center;
+    background-color: lightgray;
+    padding: 40px;
+    margin-bottom: 20px;
+    
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
+
+.footer1 {
+    text-align: center;
+    margin-top: 15px;
+    background-color: #f1f1f1;
+    padding: 20px;
+    
+
+
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 120px;
+  background-color: #000;
+  color:white;
+
+}
+
+.footer1 b {
+
+      font-size: large;
+      padding-top: 20px;
+      text-align: center;
+}
+
+.icerik {
+    width: 60%;
+    height: 200px;
+    padding: 50px;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 17%;
+    font-size: large;
+    line-height: 1.5;
+    
+
+}
+
+
+.hobilerim {
+    float:left;
+    background-color: orange;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 900px; 
+    height: 300px;
+    font-size: large;
+}
+
+.hobilerim ul {
+    list-style: none;
+    padding: 0;
+}
+
+.hobilerim li {
+    margin: 10px;
+}
+
+.becerilerim {
+    float: left;
+    background-color: lightblue;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 900px; 
+    height: 300px;
+    font-size: large;
+}
+
+.becerilerim ul {
+    list-style: none;
+    padding: 0;
+}
+
+.becerilerim li {
+    margin: 10px;
+}
+
+/* .vid1{
+
+     
+    text-align:left;
+    padding: 100px;
+    margin-left: 100px;
+
+}
+*/
+
+.vid2{
+     display: flex;
+     text-align:left;
+     padding: 100px;
+     margin-left: 100px;
+
+} 
+
+.allvid{
+    
+   border-radius: 50px;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-right: 50px;
+
+}
+
+.paragrafspor{
+
+    padding: 20px; margin: auto; margin-bottom: 50px; padding-top: 80px;
+    width: 800px; height: 400px;
+    background-color: lightgray;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif ;
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+.son{
+
+    height: 400px; width: 800px;
+    background-color: white;
+
+}
+.prg1{
+
+    margin-top:  25px;
+    padding-top: 25px;
+    line-height: 1.5;
+}
+
+.prg2{
+
+    margin-top:  25px;
+    padding-top: 25px;
+    line-height: 1.5;
+
+}
+
+
+ .smac{
+    
+    width: 33%;
+    height: 450px;
+    float: left;
+} 
+.satranc{
+    
+    width: 33%;height: 450px;
+    float: left;
+} 
+
+img{
+    width: 40%;
+    height: 100%;
+}
+.anasayfaBosluk{
+
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+}
+
+
+
+
+
