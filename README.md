@@ -3,4 +3,4 @@
 Bu sitede kendimden bahsettim.Yaşadığım yerleri,hobilerimi ve hedeflerimi anlattı.
 Web Teknolojileri ve Programalama dersi için hazırlanmıştır.
 
-http://bilgisayarprogrami.great-site.net/index.html 
+odevpaylas.infinityfreeapp.com
